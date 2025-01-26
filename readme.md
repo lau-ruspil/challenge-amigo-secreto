@@ -77,4 +77,6 @@ Una vez que hayas agregado al menos 2 nombres, presiona el botón "Sortear" para
 
 ## Demo en video
 
-[![Ver video](<assets/capturasDemo/logo_reproductor.png>)](github.com/lau-ruspil/challenge-amigo-secreto/raw/main/assets/capturasDemo/Amigo Secreto - Google Chrome 2025-01-26 14-48-17.mp4)
+[![Ver video](<assets/capturasDemo/logo_reproductor.png>)](https://github.com/lau-ruspil/challenge-amigo-secreto/raw/main/assets/capturasDemo/Amigo%20Secreto%20-%20Google%20Chrome%202025-01-26%2014-48-17.mp4)
+
+<img src="<assets/capturasDemo/logo_reproductor.png>" alt="Ver video" width="200"/>
